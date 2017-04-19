@@ -202,7 +202,7 @@ public class MainActivity extends AppCompatActivity implements InstructionsPageF
     }
 
     /*
-     * Performs requesting necessary permission.
+     * Проводит запрос необходимых разрешений.
      */
     private void requestPermissions() {
         ActivityCompat.requestPermissions(this, new String[]{Manifest.permission.WRITE_EXTERNAL_STORAGE},
