@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SequenceTestApp</string>
+
+    <string name="edit_text_hint">Последовательность</string>
+    <string name="analyze_button">Определить</string>
+
+    <!-- Страницы справки. -->
+    <string name="instructions_page1">Введите последовательность целых чисел через пробел.</string>
+    <string name="instructions_page2">Нажмите на кнопку \"Определить\"</string>
+    <string name="instructions_page3">Вы увидите тип введенной последовательности.</string>
+
+    <string name="instructions_page_image_content_descr">Изображение инструкции.</string>
+
+    <string name="instructions_ok_button">Понятно</string>
+
+    <!-- Результаты анализа последовательности. -->
+    <string name="analysis_result_not_sequence">Не последовательность.</string>
+    <string name="analysis_result_constant_sequence">Постоянная последовательность.</string>
+    <string name="analysis_result_random_sequence">Произвольная последовательность.</string>
+    <string name="analysis_result_arithmetic_sequence">Арифметическая последовательность.</string>
+    <string name="analysis_result_geometric_sequence">Геометрическая последовательность.</string>
+
+    <string name="permission_ext_storage_rationale_text">Необходимо разрешение на работу с внешним хранилищем.</string>
+</resources>
